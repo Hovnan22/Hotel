@@ -21,6 +21,26 @@ export const hotelsList: HotelList[] = [
     bookingLogo: require('../../assets/images/booking.png'),
     buttonLink: 'https://zoftify.com/',
   },
+  {
+    id: 3,
+    imageUrl: require('../../assets/images/hotel2.png'),
+    distanse: '12 mins walking',
+    rating: '9.7',
+    name: 'Marriott Plaza',
+    priceCategory: 3,
+    bookingLogo: require('../../assets/images/booking.png'),
+    buttonLink: 'https://zoftify.com/',
+  },
+  {
+    id: 4,
+    imageUrl: require('../../assets/images/hotel2.png'),
+    distanse: '12 mins walking',
+    rating: '9.7',
+    name: 'Marriott Plaza',
+    priceCategory: 3,
+    bookingLogo: require('../../assets/images/booking.png'),
+    buttonLink: 'https://zoftify.com/',
+  },
 ];
 
 export const HotelsDetails: Hotels = {
@@ -38,6 +58,22 @@ export const HotelsDetails: Hotels = {
     name: 'Marriott Plaza',
     overview:
       'Welcome to Marriott Plaza, your premier destination for luxury accommodation in the heart of Manchester. Situated adjacent to the iconic Emirates Old Trafford cricket ground.',
+    buttonLink: 'https://zoftify.com/',
+  },
+  3: {
+    id: 1,
+    image: require('../../assets/images/hotelDescr.png'),
+    name: 'Hilton Garden Inn Manchester Emirates Old Trafford',
+    overview:
+      'Welcome to Hilton Garden Inn Manchester Emirates Old Trafford, your premier destination for luxury accommodation in the heart of Manchester. Situated adjacent to the iconic Emirates Old Trafford cricket ground.',
+    buttonLink: 'https://zoftify.com/',
+  },
+  4: {
+    id: 1,
+    image: require('../../assets/images/hotelDescr.png'),
+    name: 'Hilton Garden Inn Manchester Emirates Old Trafford',
+    overview:
+      'Welcome to Hilton Garden Inn Manchester Emirates Old Trafford, your premier destination for luxury accommodation in the heart of Manchester. Situated adjacent to the iconic Emirates Old Trafford cricket ground.',
     buttonLink: 'https://zoftify.com/',
   },
 };
