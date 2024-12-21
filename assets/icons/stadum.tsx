@@ -1,7 +1,7 @@
 import * as React from "react"
 import Svg, { G, Path, Defs, ClipPath } from "react-native-svg"
-import { CustomSvgProps } from "../../types/types"
-import { GRAY, PRIMARY } from "../../const/colors"
+import { CustomSvgProps } from "../../src/types/types"
+import { GRAY, PRIMARY } from "../../src/const/colors"
 
 const StadiumIcon = (props: CustomSvgProps) => (
   <Svg fill="none" {...props} viewBox="0 0 24 24">
