@@ -44,5 +44,4 @@ export const TextStyles = StyleSheet.create({
     regular: {
         fontWeight: 400,
     }
-
 })

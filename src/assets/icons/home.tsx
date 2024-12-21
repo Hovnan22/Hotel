@@ -1,6 +1,6 @@
 import * as React from "react"
 import Svg, { Path } from "react-native-svg"
-import CustomSvgProps from "../../types/types"
+import { CustomSvgProps } from "../../types/types"
 import { GRAY, PRIMARY } from "../../const/colors"
 
 const HomeIcon = (props: CustomSvgProps) => (

@@ -11,7 +11,7 @@ import ContactIcon from "../assets/icons/contact";
 import InformationIcon from "../assets/icons/information";
 import StadiumIcon from "../assets/icons/stadum";
 import { GRAY, PRIMARY } from "../const/colors";
-import { TextStyles } from "../styles/styles";
+import { TextStyles } from "../styles/texts";
 
 
 const Tab = createBottomTabNavigator({
